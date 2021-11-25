@@ -7,10 +7,11 @@
 ###  Repositorio dedicado proyecto final de la asignatura de Computación Gráfica e Interacción Humano Computadora
 ----------------
 
+[![](https://media.githubusercontent.com/media/albertoicg01/TBBT_Xmas/main/img/software.png)](https://media.githubusercontent.com/media/albertoicg01/TBBT_Xmas/main/img/software.png)
 
-[![CGIHC](https://raw.githubusercontent.com/albertoicg01/TBBT_Xmas/main/img/software.png "CGIHC")](https://raw.githubusercontent.com/albertoicg01/TBBT_Xmas/main/img/software.png "CGIHC")
-
-
+#### Instrucciones 
+Se recomienda clonar el repositorio y no sólo descargarlo el proyecto comprimido, para
+su correcta ejecución.
 
 A continuación se describen las animaciones realizadas
 * Luces navideñas dentro del departamento
