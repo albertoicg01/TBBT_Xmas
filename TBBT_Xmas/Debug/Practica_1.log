@@ -1,0 +1,73 @@
+﻿  Iluminacion.cpp
+D:\UNIVERSIDAD\2022-1\6_GRÁFICA_LAB\P8\Practica_1\Practica_1\Iluminacion.cpp(145,24): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\UNIVERSIDAD\2022-1\6_GRÁFICA_LAB\P8\Practica_1\Practica_1\Iluminacion.cpp(174,21): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+D:\UNIVERSIDAD\2022-1\6_GRÁFICA_LAB\P8\Practica_1\Practica_1\Iluminacion.cpp(175,21): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+D:\UNIVERSIDAD\2022-1\6_GRÁFICA_LAB\P8\Practica_1\Practica_1\Iluminacion.cpp(176,21): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+D:\UNIVERSIDAD\2022-1\6_GRÁFICA_LAB\P8\Practica_1\Practica_1\Iluminacion.cpp(180,22): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+D:\UNIVERSIDAD\2022-1\6_GRÁFICA_LAB\P8\Practica_1\Practica_1\Iluminacion.cpp(181,22): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+D:\UNIVERSIDAD\2022-1\6_GRÁFICA_LAB\P8\Practica_1\Practica_1\Iluminacion.cpp(182,22): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+D:\UNIVERSIDAD\2022-1\6_GRÁFICA_LAB\P8\Practica_1\Practica_1\Iluminacion.cpp(186,22): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+D:\UNIVERSIDAD\2022-1\6_GRÁFICA_LAB\P8\Practica_1\Practica_1\Iluminacion.cpp(187,22): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+D:\UNIVERSIDAD\2022-1\6_GRÁFICA_LAB\P8\Practica_1\Practica_1\Iluminacion.cpp(188,22): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+D:\UNIVERSIDAD\2022-1\6_GRÁFICA_LAB\P8\Practica_1\Practica_1\Iluminacion.cpp(192,22): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+D:\UNIVERSIDAD\2022-1\6_GRÁFICA_LAB\P8\Practica_1\Practica_1\Iluminacion.cpp(193,22): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+D:\UNIVERSIDAD\2022-1\6_GRÁFICA_LAB\P8\Practica_1\Practica_1\Iluminacion.cpp(194,22): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+          with
+          [
+              T=float
+          ]
+D:\UNIVERSIDAD\2022-1\6_GRÁFICA_LAB\P8\Practica_1\Practica_1\Iluminacion.cpp(348,17): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\UNIVERSIDAD\2022-1\6_GRÁFICA_LAB\P8\Practica_1\Practica_1\Iluminacion.cpp(354,17): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\UNIVERSIDAD\2022-1\6_GRÁFICA_LAB\P8\Practica_1\Practica_1\Iluminacion.cpp(360,21): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\UNIVERSIDAD\2022-1\6_GRÁFICA_LAB\P8\Practica_1\Practica_1\Iluminacion.cpp(366,21): warning C4305: '-=': truncamiento de 'double' a 'float'
+D:\UNIVERSIDAD\2022-1\6_GRÁFICA_LAB\P8\Practica_1\Practica_1\Iluminacion.cpp(471,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\UNIVERSIDAD\2022-1\6_GRÁFICA_LAB\P8\Practica_1\Practica_1\Iluminacion.cpp(472,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\UNIVERSIDAD\2022-1\6_GRÁFICA_LAB\P8\Practica_1\Practica_1\Iluminacion.cpp(476,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\UNIVERSIDAD\2022-1\6_GRÁFICA_LAB\P8\Practica_1\Practica_1\Iluminacion.cpp(477,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\UNIVERSIDAD\2022-1\6_GRÁFICA_LAB\P8\Practica_1\Practica_1\Iluminacion.cpp(479,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\UNIVERSIDAD\2022-1\6_GRÁFICA_LAB\P8\Practica_1\Practica_1\Iluminacion.cpp(480,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Practica_1.vcxproj -> D:\UNIVERSIDAD\2022-1\6_GRÁFICA_LAB\P8\Practica_1\Debug\Practica_1.exe
