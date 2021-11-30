@@ -79,7 +79,7 @@ glm::vec3 Light4 = glm::vec3(0);
 
 
 // Deltatime
-GLfloat deltaTime = 0.0f;	// Time between current frame and last frame
+GLfloat deltaTime = 2.0f;	// Time between current frame and last frame
 GLfloat lastFrame = 0.0f;  	// Time of last frame
 
 int main()
@@ -143,6 +143,9 @@ int main()
 	Model Foco2((char*)"Models/Foco/Foco4.obj");
 	Model Foco3((char*)"Models/Foco/Foco5.obj");
 
+	Model departamento((char*)"Models/departamento/departamento.obj");
+	Model halcon((char*)"Models/halcon/halcon.obj");
+	Model arbol((char*)"Models/arbol/arbol.obj");
 	// Set texture units
 	lightingShader.Use();
 	glUniform1i(glGetUniformLocation(lightingShader.Program, "diffuse"), 0);
@@ -154,6 +157,9 @@ int main()
 	while (!glfwWindowShouldClose(window))
 	{
 
+		
+		
+		
 		// Calculate deltatime of current frame
 		GLfloat currentFrame = glfwGetTime();
 		deltaTime = currentFrame - lastFrame;
@@ -164,7 +170,7 @@ int main()
 		DoMovement();
 
 		// Clear the colorbuffer
-		glClearColor(0.1f, 0.1f, 0.1f, 1.0f);
+		glClearColor(0.9f, 0.9f, 0.9f, 1.0f);
 		glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 		//Load Model
 
@@ -175,11 +181,14 @@ int main()
 		glUniform3f(viewPosLoc, camera.GetPosition().x, camera.GetPosition().y, camera.GetPosition().z);
 
 
+		glm::mat4 model(1);
+		departamento.Draw(lightingShader);
+
 		// Directional light
 		glUniform3f(glGetUniformLocation(lightingShader.Program, "dirLight.direction"), -0.2f, -1.0f, -0.3f);
-		glUniform3f(glGetUniformLocation(lightingShader.Program, "dirLight.ambient"), 0.1f, 0.1f, 0.1f);
-		glUniform3f(glGetUniformLocation(lightingShader.Program, "dirLight.diffuse"), 0.2f, 0.2f, 0.2f);
-		glUniform3f(glGetUniformLocation(lightingShader.Program, "dirLight.specular"), 0.3f, 0.3f, 0.3f);
+		glUniform3f(glGetUniformLocation(lightingShader.Program, "dirLight.ambient"), 1.0f, 1.0f, 1.0f); //glUniform3f(glGetUniformLocation(lightingShader.Program, "dirLight.ambient"), 1.0, 0.5f, 0.5f);
+		glUniform3f(glGetUniformLocation(lightingShader.Program, "dirLight.diffuse"), 0.0f, 0.0f, 0.0f); //glUniform3f(glGetUniformLocation(lightingShader.Program, "dirLight.diffuse"), 0.2f, 0.2f, 0.2f);
+		glUniform3f(glGetUniformLocation(lightingShader.Program, "dirLight.specular"), 0.0f, 0.0f, 0.0f);//glUniform3f(glGetUniformLocation(lightingShader.Program, "dirLight.specular"), 0.3f, 0.3f, 0.3f);
 
 
 		// Point light 1
@@ -276,18 +285,30 @@ int main()
 
 
 
-		glm::mat4 model(1);
+	
 
 
-
-		//Carga de modelo 
+		////////////////////////////////////////////////////////////////////////////////////////////Carga de modelo ////////////////////////////////////////////////////////////////////////////////////////////
 		view = camera.GetViewMatrix();
-		model = glm::mat4(1);
+	//	model = glm::mat4(1);
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
+		
+		//model = glm::mat4(1);
+		//		model = glm::translate(model, glm::vec3(15.0, 0.0f, 0.0f)); /**********************departamento********************/
+		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
+		
+		halcon.Draw(lightingShader);
+
+		arbol.Draw(lightingShader);
+		glBindVertexArray(0);
+		
+		
+		
+		
 		Piso.Draw(lightingShader);
 
-		glEnable(GL_BLEND);
-		glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA); //NECESARIO PARA EFECTO TRASLUCIDO
+//		glEnable(GL_BLEND);
+	//	glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA); //NECESARIO PARA EFECTO TRASLUCIDO
 		model = glm::mat4(1);
 
 		model = glm::translate(model, glm::vec3(-15.0f, 0.0f, 0.0f)); /**********************FOCO AZUL********************/
@@ -307,9 +328,18 @@ int main()
 		Foco3.Draw(lightingShader);
 
 
+
+	
+
+
 		//Esfera.Draw(lightingShader);
 		glEnable(GL_BLEND);
 		glBindVertexArray(0);
+		
+
+
+
+
 
 
 		// Also draw the lamp object, again binding the appropriate shader
