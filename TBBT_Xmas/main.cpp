@@ -145,7 +145,7 @@ int main()
 
 	Model departamento((char*)"Models/departamento/departamento.obj");
 	Model halcon((char*)"Models/halcon/halcon.obj");
-	Model arbol((char*)"Models/arbol/arbol.obj");
+
 	// Set texture units
 	lightingShader.Use();
 	glUniform1i(glGetUniformLocation(lightingShader.Program, "diffuse"), 0);
@@ -299,7 +299,7 @@ int main()
 		
 		halcon.Draw(lightingShader);
 
-		arbol.Draw(lightingShader);
+
 		glBindVertexArray(0);
 		
 		
