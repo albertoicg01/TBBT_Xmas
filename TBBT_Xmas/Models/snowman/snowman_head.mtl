@@ -1,0 +1,1717 @@
+newmtl Gaming_Room3:Gaming_Room:polySurface471SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room4:Gaming_Room:polySurface589SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room5:Gaming_Room:Chaise:polySurface1SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room6:Gaming_Room:polySurface277SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room7:Gaming_Room:polySurface277SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Halcon_Milenario:FalcUndr
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd FalcUndr.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario1:CP_Front
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd CP_Front.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario1:Cockpit2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Cockpit2.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario1:Cockpit4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Cockpit3.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario1:Dish01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Dish01.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario1:Dish02
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Dish02.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario1:DishSide
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd DishSide.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario1:DrivBack
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd DrivBack.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario1:Engine01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Engine01.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario1:Engine03
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.80 0.80 0.80
+map_Kd Engine02.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario1:EscPod_L
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd EscPod_L.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario1:EscPod_U
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd EscPod_U.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario1:FalcPlan
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd FalcPlan.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario1:FalcUndr
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd FalcUndr.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario1:FrontColor
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario1:Hatch
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Hatch.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario1:M_Inside
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd M_Inside.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario1:MandbEnd
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd MandbEnd.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario1:PodSide1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PodSide1.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario1:SidePort
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd SidePort.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario1:SideRear
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd SideRear.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario1:SideRear1_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd SideRear1_.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario1:Turret_L
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Turret_L.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario1:Turret_U
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Turret_U.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario1:Vent01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Vent01.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario1:_Charcoal_1
+illum 4
+Kd 0.14 0.14 0.14
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:CP_Front
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd CP_Front.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:Cockpit2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Cockpit2.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:Cockpit4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Cockpit3.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:Dish01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Dish01.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:Dish02
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Dish02.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:DishSide
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd DishSide.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:DrivBack
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd DrivBack.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:Engine01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Engine01.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:Engine03
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.80 0.80 0.80
+map_Kd Engine02.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:EscPod_L
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd EscPod_L.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:EscPod_U
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd EscPod_U.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:FalcPlan
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd FalcPlan.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:FalcUndr
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd FalcUndr.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:FrontColor
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:Hatch
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Hatch.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:M_Inside
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd M_Inside.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:MandbEnd
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd MandbEnd.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:PodSide1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PodSide1.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:SidePort
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd SidePort.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:SideRear
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd SideRear.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:SideRear1_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd SideRear1_.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:Turret_L
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Turret_L.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:Turret_U
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Turret_U.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:Vent01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Vent01.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:_Charcoal_1
+illum 4
+Kd 0.14 0.14 0.14
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert83SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert84SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert85SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert86SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert88SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert90SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert91SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert93SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert94SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert95SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert96SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert97SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nieve.png
+Ni 1.00
+newmtl lambert98SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.png
+Ni 1.00
+newmtl lambert100SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nieve.png
+Ni 1.00
+newmtl lambert101SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 3.png
+Ni 1.00
+newmtl lambert102SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nieve.png
+Ni 1.00
+newmtl lambert103SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 4.png
+Ni 1.00
+newmtl lambert104SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 4.png
+Ni 1.00
+newmtl lambert105SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nieve.png
+Ni 1.00
+newmtl lambert106SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.png
+Ni 1.00
+newmtl lambert107SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.png
+Ni 1.00
+newmtl lambert108SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 1.png
+Ni 1.00
+newmtl lambert109SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 3.png
+Ni 1.00
+newmtl lambert110SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 3.png
+Ni 1.00
+newmtl lambert111SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 3.png
+Ni 1.00
+newmtl lambert112SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 3.png
+Ni 1.00
+newmtl lambert113SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 3.png
+Ni 1.00
+newmtl lambert114SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 3.png
+Ni 1.00
+newmtl lambert116SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 3.png
+Ni 1.00
+newmtl lambert118SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 3.png
+Ni 1.00
+newmtl lambert119SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 3.png
+Ni 1.00
+newmtl pasted__lambert84SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert84SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert85SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert86SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert91SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert93SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert93SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert93SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert93SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert97SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nieve.png
+Ni 1.00
+newmtl pasted__lambert98SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.png
+Ni 1.00
+newmtl pasted__lambert100SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nieve.png
+Ni 1.00
+newmtl pasted__lambert109SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 3.png
+Ni 1.00
+newmtl pasted__pasted__lambert84SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__lambert84SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__lambert84SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__lambert93SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__lambert93SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__lambert93SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__lambert93SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__lambert93SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__lambert97SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nieve.png
+Ni 1.00
+newmtl pasted__pasted__lambert98SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert84SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert84SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert84SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert93SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert93SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert97SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nieve.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert98SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert84SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert84SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert97SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nieve.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert84SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert84SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert84SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert84SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert84SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert84SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert84SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__polySurface280SG
+illum 4
+Kd 0.97 0.97 0.97
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__polySurface280SG1
+illum 4
+Kd 0.97 0.97 0.97
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__polySurface291SG
+illum 4
+Kd 0.35 0.35 0.35
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__polySurface298SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__polySurface300SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__polySurface301SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl polySurface299SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl sketchfablh3d:a007_bb4c_863e_fb69e2b2b2ea_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.80 0.80 0.80
+Tf 1.00 1.00 1.00
+map_Kd Leather_Red_Leather_1__dd831c49_d6de_5f4e_9102_dfb640490ada_.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 1.00
+newmtl sketchfablh3d:a2_9269_9c4c_906c_25e91b33b679_
+illum 4
+Kd 0.55 0.60 0.60
+Ka 0.40 0.42 0.42
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 1.00
+newmtl sketchfablh3d:a3f_a7b6_a042_9348_ce7d412b4f6e_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.68 0.70 0.70
+Tf 1.00 1.00 1.00
+map_Kd Pictures_japan2_512_2LPPOg_HL1HvplJ_a8Qmif.jpg
+Ni 1.00
+Ks 0.02 0.03 0.03
+Ns 4.00
+newmtl sketchfablh3d:a4eccab_4786_e140_888a_125b5ed56030_
+illum 4
+Kd 0.85 0.38 0.46
+Ka 0.60 0.28 0.33
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 1.00
+newmtl sketchfablh3d:a6f3e02a_d7d8_0f41_8aa3_8ef13c2b3b5d_
+illum 4
+Kd 1.00 0.99 0.94
+Ka 0.70 0.69 0.67
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.01 0.01 0.01
+Ns 10.00
+newmtl sketchfablh3d:a99c76_61ec_0649_86a6_67aed0aa69cb_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.68 0.70 0.70
+Tf 1.00 1.00 1.00
+map_Kd Tiles_Marble__2ff8b70c_85e3_034d_b628_751f3b2e7013_.png
+Ni 1.00
+Ks 0.98 1.00 1.00
+Ns 100.00
+newmtl sketchfablh3d:a257acc_8b6a_a14d_8962_40f1fb8a54ef_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.41 0.36 0.31
+Tf 1.00 1.00 1.00
+map_Kd brick_Bricks_Red.jpg
+Ni 1.00
+Ks 0.08 0.07 0.07
+Ns 43.00
+newmtl sketchfablh3d:a151508e_5175_6848_ac25_a9f30ba33416_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.68 0.70 0.70
+Tf 1.00 1.00 1.00
+map_Kd Fabric_fabric_10_2YxLJBY9EGHBcb9io3yvLc.jpg
+Ni 1.00
+Ks 0.02 0.03 0.03
+Ns 4.00
+newmtl sketchfablh3d:aa480ea6_772e_374d_8f20_732a19c22018_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.68 0.70 0.70
+Tf 1.00 1.00 1.00
+map_Kd Fabric_weave05M__3ef450e7_2881_7e41_bb59_c93b0f5cbec2_.jpg
+Ni 1.00
+Ks 0.02 0.03 0.03
+Ns 4.00
+newmtl sketchfablh3d:aab4d66_75f4_6743_bfdb_e7d72898935b_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.56 0.47 0.39
+Tf 1.00 1.00 1.00
+map_Kd brick_Bricks_Red_n.jpg
+Ni 1.00
+Ks 0.21 0.17 0.17
+Ns 43.00
+newmtl sketchfablh3d:ab09_d34d_064e_8117_77eb942f0255_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.68 0.70 0.70
+Tf 1.00 1.00 1.00
+map_Kd Pictures_Formula_1__c2197693_d456_4147_911c_f0a4ae30dfa4_.png
+Ni 1.00
+Ks 0.02 0.03 0.03
+Ns 2.00
+newmtl sketchfablh3d:aed451a4_bd0e_324f_862b_51028c19c589_
+illum 4
+Kd 0.73 0.74 0.73
+Ka 0.51 0.52 0.51
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 1.00
+newmtl sketchfablh3d:aff33d8b_20c8_6545_ab7e_7bd022d90dd6_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.55 0.39 0.38
+Tf 1.00 1.00 1.00
+map_Kd Wood_Nut_Dark.jpg
+Ni 1.00
+Ks 0.11 0.11 0.11
+Ns 78.00
+newmtl sketchfablh3d:b0d_4169_2c40_9593_866e543a96dc_
+illum 4
+Kd 0.15 0.45 0.71
+Ka 0.11 0.31 0.50
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 1.00
+newmtl sketchfablh3d:b5c4dd_676e_6445_818e_793273b9690f_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.68 0.70 0.70
+Tf 1.00 1.00 1.00
+map_Kd Fabric_weave12M__be27b5e8_e58b_824d_9258_70b251fd6bb9_.jpg
+Ni 1.00
+Ks 0.02 0.03 0.03
+Ns 4.00
+newmtl sketchfablh3d:b44e_913f_1e45_b660_c373aa2498fa_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.68 0.70 0.70
+Tf 1.00 1.00 1.00
+map_Kd Wallpapers_walp05L__a22277d0_a395_f849_89c8_3a222d361f32_.jpg
+Ni 1.00
+Ks 0.02 0.03 0.03
+Ns 4.00
+newmtl sketchfablh3d:b871d5e_27f1_2c47_b0ed_0f86ad1189ec_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.80 0.80 0.80
+Tf 1.00 1.00 1.00
+map_Kd Pictures_Keyboards_1__b74e20a9_453d_e144_9268_0a78eb6f7a4e_.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 2.00
+newmtl sketchfablh3d:b1293f1_2a70_8146_8dfc_21371a6ea673_
+illum 4
+Kd 0.12 0.12 0.15
+Ka 0.10 0.10 0.10
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.08 0.08 0.10
+Ns 6.00
+newmtl sketchfablh3d:b1497_e025_4e46_a32a_73cea2d49dea_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.61 0.63 0.61
+Tf 1.00 1.00 1.00
+map_Kd Fabric_jeans4_1IynVX5MtRGAaTITdwG8ak.jpg
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 1.00
+newmtl sketchfablh3d:b65959f2_9d94_004f_9fb0_f97197e8ea9e_
+illum 4
+Kd 0.49 0.36 0.22
+Ka 0.35 0.26 0.16
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 1.00
+newmtl sketchfablh3d:bc29a048_0221_0941_862d_6860bc283b13_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.61 0.63 0.61
+Tf 1.00 1.00 1.00
+map_Kd Wallpapers_15a_2j3hR6ABDPH9w3BB5vQzuw.jpg
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 1.00
+newmtl sketchfablh3d:c0_af91_194f_b24f_2b71907b070e_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.70 0.70 0.70
+Tf 1.00 1.00 1.00
+map_Kd Pictures_Dali_The_Rose.jpg
+Ni 1.00
+Ks 0.07 0.07 0.07
+Ns 2.00
+newmtl sketchfablh3d:c5efc78c_5451_2a4b_84c4_4e5fe89ccac2_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.68 0.70 0.70
+Tf 1.00 1.00 1.00
+map_Kd Fabric_weave23M__e5a5d045_c400_9a41_a47e_27cddf20bd8d_.jpg
+Ni 1.00
+Ks 0.02 0.03 0.03
+Ns 4.00
+newmtl sketchfablh3d:c41d9ce3_5198_e942_92b5_29b6f7ec9ef4_
+illum 4
+Kd 1.00 0.00 0.09
+Ka 0.77 0.08 0.06
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 0.52 0.50
+Ns 97.00
+newmtl sketchfablh3d:c53d8e_19e8_4c4b_8bc2_adb7c330503e_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.68 0.70 0.70
+Tf 1.00 1.00 1.00
+map_Kd Wallpapers_walp34L__fd72ec19_880a_2649_8d7f_cf00294aafaf_.JPG
+Ni 1.00
+Ks 0.02 0.03 0.03
+Ns 4.00
+newmtl sketchfablh3d:c93_ee9f_9741_b5d1_31d1deaca3a8_
+illum 4
+Kd 0.94 0.93 0.90
+Ka 0.66 0.65 0.63
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.09 0.09
+Ns 4.00
+newmtl sketchfablh3d:c442b4_8e42_4e46_a7f6_6948e48ac016_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.80 0.80 0.80
+Tf 1.00 1.00 1.00
+map_Kd Pictures_material_2__66e5bd40_d467_3a4c_9afd_4e21ac84c653_.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 1.00
+newmtl sketchfablh3d:c2877_5d22_df40_a8f0_bc1ac3b4b064_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.68 0.70 0.70
+Tf 1.00 1.00 1.00
+map_Kd Fabric_fabric_forms_3Xei9dDjkTJvHLLQA2_5Ld.jpg
+Ni 1.00
+Ks 0.02 0.03 0.03
+Ns 4.00
+newmtl sketchfablh3d:c2542081_5ccf_c14f_b117_9df684bb1a7b_
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.70 0.70 0.70
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.07 0.07 0.07
+Ns 2.00
+newmtl sketchfablh3d:c_164b_d74b_a277_a86109866b0e_
+illum 4
+Kd 0.07 0.38 0.67
+Ka 0.06 0.27 0.47
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.12 0.42 0.72
+Ns 97.00
+newmtl sketchfablh3d:ca31a2_3040_144b_9258_686e2da36631_
+illum 4
+Kd 0.26 0.25 0.25
+Ka 0.18 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.02 0.02 0.02
+Ns 6.00
+newmtl sketchfablh3d:cac351da_7560_3f46_9e5a_399f46c2261d_
+illum 4
+Kd 0.85 0.85 0.85
+Ka 0.70 0.70 0.70
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 3700.00
+newmtl sketchfablh3d:cbecf21_441b_4a45_85ef_b864d5ecf165_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.68 0.70 0.70
+Tf 1.00 1.00 1.00
+map_Kd Fabric_12_2DoMR6aCpZJQBWn4FmkUSd.jpg
+Ni 1.00
+Ks 0.02 0.03 0.03
+Ns 4.00
+newmtl sketchfablh3d:cd8bb59_2087_da4a_a56e_c1ea8f9ad548_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.68 0.70 0.70
+Tf 1.00 1.00 1.00
+map_Kd Wallpapers_solid36M__fdd1bcfe_6bef_884f_9628_809a4207b10b_.jpg
+Ni 1.00
+Ks 0.02 0.03 0.03
+Ns 4.00
+newmtl sketchfablh3d:ce08a8b_b62b_9847_8048_e014ba6be8ec_
+illum 4
+Kd 0.80 0.60 0.40
+Ka 0.70 0.70 0.70
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 3700.00
+newmtl sketchfablh3d:d080a5_31ce_5944_b4d2_53b1b235de32_
+illum 4
+Kd 0.99 1.00 1.00
+Ka 0.69 0.71 0.71
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.99 1.00 1.00
+Ns 100.00
+newmtl sketchfablh3d:d4c8b71e_b8e6_e943_b587_d80a7be391f7_
+illum 4
+Kd 0.83 0.85 0.86
+Ka 0.58 0.59 0.61
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.83 0.85 0.86
+Ns 97.00
+newmtl sketchfablh3d:d9db2d_9db9_4a4a_aa92_94ab3542f73f_
+illum 4
+Kd 0.51 0.65 0.48
+Ka 0.37 0.46 0.34
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 1.00
+newmtl sketchfablh3d:d16c4e68_08b4_1746_a209_3306048365e6_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.68 0.70 0.70
+Tf 1.00 1.00 1.00
+map_Kd Pictures_Formula_2__6a7d2246_07f2_5e47_8550_b08f22e1856d_.png
+Ni 1.00
+Ks 0.02 0.03 0.03
+Ns 2.00
+newmtl sketchfablh3d:d54f26f_b589_a244_a093_c9745b7acdfc_
+illum 4
+Kd 0.68 0.48 0.31
+Ka 0.48 0.34 0.22
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 1.00
+newmtl sketchfablh3d:d81f6_3497_4b4a_92a9_c44232537a22_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.79 0.79 0.81
+Tf 1.00 1.00 1.00
+map_Kd Laminate_vishnia_lam.jpg
+Ni 1.00
+Ks 0.19 0.19 0.19
+Ns 97.00
+newmtl sketchfablh3d:d824b3b5_c65d_ca46_919c_126f3da85941_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.77 0.75 0.81
+Tf 1.00 1.00 1.00
+map_Kd Wood_Wood_Yellow__dc5601db_bad6_7c4d_870b_c9e033e62245_.png
+Ni 1.00
+Ks 0.11 0.11 0.11
+Ns 93.00
+newmtl sketchfablh3d:d2987b_af8a_ae4c_8d80_7e6c8a235507_
+illum 4
+Kd 0.37 0.49 0.32
+Ka 0.28 0.36 0.23
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 1.00
+newmtl sketchfablh3d:d3431336_5166_4749_b6e3_b79ef1e206f8_
+illum 4
+Kd 0.85 0.85 0.85
+Ka 0.70 0.70 0.70
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 3700.00
+newmtl sketchfablh3d:d7306630_d461_2d4b_973b_80be1845a651_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.68 0.70 0.70
+Tf 1.00 1.00 1.00
+map_Kd Wallpapers_fabric_41_orange_0gO_5hGNCLHhqVJMni1L7p.jpg
+Ni 1.00
+Ks 0.02 0.03 0.03
+Ns 4.00
+newmtl sketchfablh3d:d_f8a0_ee45_81ff_689de357bff0_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.68 0.70 0.70
+Tf 1.00 1.00 1.00
+map_Kd Tiles_Wall_Tiles_24_19wORc_JysIv_HLWL0e7mr.jpg
+Ni 1.00
+Ks 0.98 1.00 1.00
+Ns 100.00
+newmtl sketchfablh3d:da6_f5f4_0943_be0a_e38f570a7b61_
+illum 4
+Kd 1.00 1.00 0.11
+Ka 1.00 1.00 0.08
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 0.99 0.90
+Ns 97.00
+newmtl sketchfablh3d:da_ef30_2a4b_8ba2_d35cb9426d0b_
+illum 4
+Kd 0.37 0.38 0.34
+Ka 0.28 0.26 0.26
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.03 0.03 0.03
+Ns 6.00
+newmtl sketchfablh3d:dbe038_df40_0c4d_b67d_7e3f849b26df_
+illum 4
+Kd 1.00 0.95 0.88
+Ka 0.71 0.67 0.61
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 1.00
+newmtl sketchfablh3d:dc5ce2a_1d22_ca43_bd5b_0f5c18da1578_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.68 0.70 0.70
+Tf 1.00 1.00 1.00
+map_Kd Fabric_fabric_26_3Rhz4WvEzCIB_BuObsqyxU.jpg
+Ni 1.00
+Ks 0.02 0.03 0.03
+Ns 4.00
+newmtl sketchfablh3d:df6aa86_a76f_0c4d_bb96_599f3ee5db9e_
+illum 4
+Kd 1.00 0.57 0.22
+Ka 0.78 0.45 0.16
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 0.74 0.51
+Ns 97.00
+newmtl sketchfablh3d:e0020b58_730c_9149_b8e5_1d0216ba5ce7_
+illum 4
+Kd 0.84 0.69 0.46
+Ka 0.62 0.50 0.32
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 1.00
+newmtl sketchfablh3d:e0fd6740_7608_fa4d_b1a9_6d15c44a85da_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.68 0.70 0.70
+Tf 1.00 1.00 1.00
+map_Kd Wallpapers_floral25M__9ed89d8b_273d_d448_92f6_4ed14781d9c0_.jpg
+Ni 1.00
+Ks 0.02 0.03 0.03
+Ns 4.00
+newmtl sketchfablh3d:e1b83c_b82d_684a_9144_d24c6ff330b9_
+illum 4
+Kd 0.02 0.06 0.06
+Ka 0.04 0.04 0.08
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.03 0.04 0.07
+Ns 6.00
+newmtl sketchfablh3d:e3b88bfb_f2ab_0749_877d_235afe5ea80d_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.68 0.70 0.70
+Tf 1.00 1.00 1.00
+map_Kd Tiles_Wall_Tiles_32_38eDMtTAuhJAUZmUz2EAjr.jpg
+Ni 1.00
+Ks 0.98 1.00 1.00
+Ns 100.00
+newmtl sketchfablh3d:e8d0c96_2274_0246_b707_9dc9f1eb3cbe_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.68 0.70 0.70
+Tf 1.00 1.00 1.00
+map_Kd Marble_marb20L__9591672f_b439_ce49_ac86_74ff82061c97_.JPG
+Ni 1.00
+Ks 0.02 0.03 0.03
+Ns 4.00
+newmtl sketchfablh3d:e12e997_a7af_a742_bd9e_0686cbe18c15_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.76 0.62 0.47
+Tf 1.00 1.00 1.00
+map_Kd Wood_Alder_Natural.jpg
+Ni 1.00
+Ks 0.11 0.11 0.11
+Ns 78.00
+newmtl sketchfablh3d:e46a8b8d_6226_9c45_83be_7ad64c270b7a_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.68 0.70 0.70
+Tf 1.00 1.00 1.00
+map_Kd Wallpapers_floral24M__208c926d_a697_7a4e_93cb_6102b7daa2f6_.jpg
+Ni 1.00
+Ks 0.02 0.03 0.03
+Ns 4.00
+newmtl sketchfablh3d:e51c6c_1ac3_fc45_98c8_b1785e82e52c_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.68 0.70 0.70
+Tf 1.00 1.00 1.00
+map_Kd Pictures_churlenis_2LolNPlTClJecBBfX3poVb.jpg
+Ni 1.00
+Ks 0.02 0.03 0.03
+Ns 4.00
+newmtl sketchfablh3d:e942b75_ab79_1b4d_896d_e7347e322dce_
+illum 4
+Kd 0.31 0.68 0.22
+Ka 0.23 0.51 0.15
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.54 0.83 0.48
+Ns 97.00
+newmtl sketchfablh3d:e_c4c8_0d44_b167_c0efb878b362_
+illum 4
+Kd 0.71 0.55 0.32
+Ka 0.54 0.40 0.22
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 1.00
+newmtl sketchfablh3d:ea44114_4b19_6b43_8a89_3041b32d594d_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.68 0.70 0.70
+Tf 1.00 1.00 1.00
+map_Kd Wallpapers_fabric_40_3qilsUSv4LHRel_RBkXi79.jpg
+Ni 1.00
+Ks 0.02 0.03 0.03
+Ns 4.00
+newmtl sketchfablh3d:eb1e262_cdbc_4f4d_9c7a_c73392d820db_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.44 0.46 0.44
+Tf 1.00 1.00 1.00
+map_Kd Leather_classic_10203.jpg
+Ni 1.00
+Ks 0.97 0.97 1.00
+Ns 99.00
+newmtl sketchfablh3d:ec787_68de_d844_9285_d4ba11ba4ae4_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.44 0.46 0.44
+Tf 1.00 1.00 1.00
+map_Kd Leather_pamela_01139.jpg
+Ni 1.00
+Ks 0.97 0.97 1.00
+Ns 99.00
+newmtl sketchfablh3d:efa34f90_82ad_6b4f_83c1_93dbdea49e3c_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.68 0.70 0.70
+Tf 1.00 1.00 1.00
+map_Kd Wallpapers_walp20L__30e2aadb_51d5_f541_990e_227e4d9c357a_.JPG
+Ni 1.00
+Ks 0.02 0.03 0.03
+Ns 4.00
+newmtl sketchfablh3d:efeae_c101_a24d_bd9b_6f5600100adb_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.70 0.70 0.70
+Tf 0.30 0.30 0.30
+map_Kd EnvEffects_GreyBlock.jpg
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 100.00
+newmtl sketchfablh3d:emissive
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl sketchfablh3d:f0622a6a_bfc0_c545_a6c4_1a9ebb7611aa_
+illum 4
+Kd 0.61 0.61 0.65
+Ka 0.43 0.43 0.46
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 1.00
+newmtl sketchfablh3d:f2b60b_5516_3a42_ad08_5416fba5e2e4_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.61 0.63 0.61
+Tf 1.00 1.00 1.00
+map_Kd Wallpapers_18a_0McuIWheBzJOJz1sDu_2PN.jpg
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 1.00
+newmtl sketchfablh3d:f2cf0479_c136_4f42_906c_48846788c13a_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.70 0.70 0.70
+Tf 1.00 1.00 1.00
+map_Kd Carpets_016_bsec.jpg
+Ni 1.00
+Ks 0.07 0.07 0.07
+Ns 2.00
+newmtl sketchfablh3d:f6af6_7614_b34d_ba07_bbfe560e57e1_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.68 0.70 0.70
+Tf 1.00 1.00 1.00
+map_Kd Fabric_fabric_fish_2uvpNEm5SuIgotBpukCDDl.jpg
+Ni 1.00
+Ks 0.02 0.03 0.03
+Ns 4.00
+newmtl sketchfablh3d:f6b9a_ff55_5640_a463_718797736cb1_
+illum 4
+Kd 0.65 0.67 0.71
+Ka 0.45 0.47 0.51
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 1.00
+newmtl sketchfablh3d:f6ddeba_a4ee_dd46_80fd_fca5373d1844_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.68 0.70 0.70
+Tf 1.00 1.00 1.00
+map_Kd Wallpapers_strp42L__1a755b3e_0e21_4a4f_9729_88ed4defd920_.JPG
+Ni 1.00
+Ks 0.02 0.03 0.03
+Ns 4.00
+newmtl sketchfablh3d:f7fcbbc6_2a81_5247_872f_efe125acdef0_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.64 0.49 0.39
+Tf 1.00 1.00 1.00
+map_Kd Wood_Cherry_Vild.jpg
+Ni 1.00
+Ks 0.11 0.11 0.11
+Ns 78.00
+newmtl sketchfablh3d:f9f347e4_b49d_904d_a64d_529b6702a5e2_
+illum 4
+Kd 0.94 0.84 0.67
+Ka 0.66 0.59 0.48
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 1.00
+newmtl sketchfablh3d:f59c5_3d17_4445_9572_7f8b18431fb0_
+illum 4
+Kd 0.29 0.35 0.41
+Ka 0.21 0.25 0.30
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 1.00
+newmtl sketchfablh3d:f769f_3595_2e42_9ffa_4ef36a1c1fd1_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.56 0.49 0.41
+Tf 1.00 1.00 1.00
+map_Kd Wood_Apple_Dark.jpg
+Ni 1.00
+Ks 0.11 0.11 0.11
+Ns 78.00
+newmtl sketchfablh3d:f438731_4a67_af4e_aa6b_cd3db1804a8a_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd Wood_Cherry_Oxford.jpg
+Ni 1.00
+Ks 0.11 0.11 0.11
+Ns 78.00
+newmtl sketchfablh3d:f3079873_036c_1c43_80a8_1bbfd171f83e_
+illum 4
+Kd 0.37 0.19 0.12
+Ka 0.26 0.14 0.09
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 1.00
+newmtl sketchfablh3d:fa1b11b2ba8e_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.93 0.96 0.96
+Tf 1.00 1.00 1.00
+map_Kd Carpets_Carpet_1__3e1e0da1_d1a7_2040_9006_278a4a2cdfe9_.png
+Ni 1.00
+Ks 0.57 0.59 0.59
+Ns 4.00
+newmtl sketchfablh3d:fa2303a_1eb9_6541_b3d6_c592c3621f47_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.68 0.70 0.70
+Tf 1.00 1.00 1.00
+map_Kd Wallpapers_walp09L__07caebba_8e26_8145_80af_f21c5219a167_.jpg
+Ni 1.00
+Ks 0.02 0.03 0.03
+Ns 4.00
+newmtl sketchfablh3d:facde71_c45a_104b_9d07_03f0518051b2_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.70 0.70 0.70
+Tf 1.00 1.00 1.00
+map_Kd Pictures_Picasso_Three_musicians.jpg
+Ni 1.00
+Ks 0.07 0.07 0.07
+Ns 2.00
+newmtl sketchfablh3d:fe7c0c3_4a3c_b54a_83be_18b5d7021560_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.80 0.80 0.80
+Tf 1.00 1.00 1.00
+map_Kd Pictures_Keyboards_1__1881828d_06ff_ca4c_acb5_c664c1690c94_.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 2.00
+newmtl sketchfablh3d:fe931f07_f9cf_3740_84ab_6f546136e565_
+illum 4
+Kd 0.98 1.00 1.00
+Ka 0.93 0.96 0.96
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.57 0.59 0.59
+Ns 4.00
+newmtl sketchfablh3d:fx_9001_cream_matte_paint
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 0.99 0.94
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 1.00

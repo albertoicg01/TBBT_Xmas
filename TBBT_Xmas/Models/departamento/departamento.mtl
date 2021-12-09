@@ -1,184 +1,358 @@
-newmtl FBXASC208FBXASC160FBXASC208FBXASC190FBXASC208FBXASC183FBXASC208FBXASC181FBXASC209FBXASC130FBXASC208FBXASC186FBXASC208FBXASC17603SG
-illum 4
-Kd 0.62 0.62 0.62
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-newmtl FBXASC208FBXASC160FBXASC208FBXASC190FBXASC208FBXASC183FBXASC208FBXASC181FBXASC209FBXASC130FBXASC208FBXASC186FBXASC208FBXASC17604SG
+newmtl Gaming_Room3:Gaming_Room:polySurface471SG
 illum 4
 Kd 0.50 0.50 0.50
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-newmtl Gaming_Room:Gaming_Room:Chaise:polySurface1SG
+newmtl Gaming_Room4:Gaming_Room:polySurface589SG
 illum 4
 Kd 0.50 0.50 0.50
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-newmtl Gaming_Room:Gaming_Room:TVKEYSHOT:polySurface1SG
-illum 4
-Kd 0.89 0.89 0.89
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-newmtl Gaming_Room:Gaming_Room:TVKEYSHOT:polySurface1SG1
-illum 4
-Kd 0.18 0.18 0.18
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-newmtl Gaming_Room:Gaming_Room:TVKEYSHOT:polySurface1SG2
-illum 4
-Kd 0.87 0.87 0.87
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-newmtl Gaming_Room:Gaming_Room:TVKEYSHOT:polySurface1SG3
+newmtl Gaming_Room5:Gaming_Room:Chaise:polySurface1SG
 illum 4
 Kd 0.50 0.50 0.50
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-newmtl Gaming_Room:Gaming_Room:TVKEYSHOT:polySurface1SG4
-illum 4
-Kd 0.10 0.10 0.10
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-newmtl Gaming_Room:Gaming_Room:TVKEYSHOT:polySurface1SG5
+newmtl Gaming_Room6:Gaming_Room:polySurface277SG
 illum 4
 Kd 0.50 0.50 0.50
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-newmtl Gaming_Room:Gaming_Room:TVKEYSHOT:polySurface1SG6
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-newmtl Gaming_Room:Gaming_Room:TVKEYSHOT:polySurface1SG7
+newmtl Gaming_Room7:Gaming_Room:polySurface277SG
 illum 4
 Kd 0.50 0.50 0.50
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-newmtl Gaming_Room:Gaming_Room:pCube1SG
+newmtl Gaming_Room10:Gaming_Room:polySurface471SG
 illum 4
 Kd 0.50 0.50 0.50
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-newmtl Gaming_Room:Gaming_Room:pCube67SG
+newmtl Gaming_Room11:Gaming_Room:polySurface589SG
 illum 4
 Kd 0.50 0.50 0.50
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-newmtl Gaming_Room:Gaming_Room:pCube68SG
-illum 4
-Kd 0.26 1.00 0.17
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-newmtl Gaming_Room:Gaming_Room:pCube70SG
-illum 4
-Kd 0.76 0.55 0.14
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-newmtl Gaming_Room:Gaming_Room:pPlane1SG
-illum 4
-Kd 0.15 0.15 0.15
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-newmtl Gaming_Room:Gaming_Room:pasted__pCube161SG
-illum 4
-Kd 0.53 0.53 0.53
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-newmtl Gaming_Room:Gaming_Room:pasted__pCube162SG
+newmtl Gaming_Room12:Gaming_Room:Chaise:polySurface1SG
 illum 4
 Kd 0.50 0.50 0.50
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-newmtl Gaming_Room:Gaming_Room:polySurface65SG
+newmtl Gaming_Room13:Gaming_Room:polySurface277SG
 illum 4
 Kd 0.50 0.50 0.50
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-newmtl Gaming_Room:Gaming_Room:polySurface93SG
-illum 4
-Kd 0.84 0.84 0.84
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-newmtl Gaming_Room:Gaming_Room:polySurface277SG
+newmtl Gaming_Room14:Gaming_Room:polySurface277SG
 illum 4
 Kd 0.50 0.50 0.50
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-newmtl Gaming_Room:Gaming_Room:polySurface321SG
-illum 4
-Kd 0.48 0.48 0.48
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-newmtl Gaming_Room:Gaming_Room:polySurface321SG1
-illum 4
-Kd 0.90 0.90 0.90
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-newmtl Gaming_Room:Gaming_Room:polySurface471SG
+newmtl Gaming_Room16:Gaming_Room:polySurface471SG
 illum 4
 Kd 0.50 0.50 0.50
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-newmtl Gaming_Room:Gaming_Room:polySurface472SG
+newmtl Gaming_Room17:Gaming_Room:polySurface589SG
 illum 4
 Kd 0.50 0.50 0.50
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-newmtl Gaming_Room:Gaming_Room:polySurface485SG
+newmtl Gaming_Room18:Gaming_Room:Chaise:polySurface1SG
 illum 4
 Kd 0.50 0.50 0.50
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-newmtl Gaming_Room:Gaming_Room:polySurface561SG
+newmtl Gaming_Room19:Gaming_Room:polySurface277SG
 illum 4
 Kd 0.50 0.50 0.50
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-newmtl Gaming_Room:Gaming_Room:polySurface562SG
-illum 4
-Kd 0.97 0.97 0.97
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-newmtl Gaming_Room:Gaming_Room:polySurface589SG
+newmtl Gaming_Room20:Gaming_Room:polySurface277SG
 illum 4
 Kd 0.50 0.50 0.50
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-newmtl Gaming_Room:Gaming_Room:polySurface614SG
+newmtl Gaming_Room22:Gaming_Room:polySurface471SG
 illum 4
 Kd 0.50 0.50 0.50
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-newmtl Gaming_Room:Gaming_Room:polySurface621SG
+newmtl Gaming_Room23:Gaming_Room:polySurface589SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room24:Gaming_Room:Chaise:polySurface1SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room25:Gaming_Room:polySurface277SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room26:Gaming_Room:polySurface277SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room28:Gaming_Room:polySurface471SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room29:Gaming_Room:polySurface589SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room30:Gaming_Room:Chaise:polySurface1SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room31:Gaming_Room:polySurface277SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room32:Gaming_Room:polySurface277SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room34:Gaming_Room:polySurface471SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room35:Gaming_Room:polySurface589SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room36:Gaming_Room:Chaise:polySurface1SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room37:Gaming_Room:polySurface277SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room38:Gaming_Room:polySurface277SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room40:Gaming_Room:polySurface471SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room41:Gaming_Room:polySurface589SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room42:Gaming_Room:Chaise:polySurface1SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room43:Gaming_Room:polySurface277SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room44:Gaming_Room:polySurface277SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room46:Gaming_Room:polySurface471SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room47:Gaming_Room:polySurface589SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room48:Gaming_Room:Chaise:polySurface1SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room49:Gaming_Room:polySurface277SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room50:Gaming_Room:polySurface277SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room52:Gaming_Room:polySurface471SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room53:Gaming_Room:polySurface589SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room54:Gaming_Room:Chaise:polySurface1SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room55:Gaming_Room:polySurface277SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room56:Gaming_Room:polySurface277SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room58:Gaming_Room:polySurface471SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room59:Gaming_Room:polySurface589SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room60:Gaming_Room:Chaise:polySurface1SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room61:Gaming_Room:polySurface277SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room62:Gaming_Room:polySurface277SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room64:Gaming_Room:polySurface471SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room65:Gaming_Room:polySurface589SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room66:Gaming_Room:Chaise:polySurface1SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room67:Gaming_Room:polySurface277SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room68:Gaming_Room:polySurface277SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room70:Gaming_Room:polySurface471SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room71:Gaming_Room:polySurface589SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room72:Gaming_Room:Chaise:polySurface1SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room73:Gaming_Room:polySurface277SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl Gaming_Room74:Gaming_Room:polySurface277SG
 illum 4
 Kd 0.50 0.50 0.50
 Ka 0.00 0.00 0.00
@@ -189,7 +363,6 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd FalcUndr.jpg
 Ni 1.00
 Ks 0.33 0.33 0.33
 Ns 0.06
@@ -198,7 +371,6 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd CP_Front.jpg
 Ni 1.00
 Ks 0.33 0.33 0.33
 Ns 0.06
@@ -207,7 +379,6 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd Cockpit2.jpg
 Ni 1.00
 Ks 0.33 0.33 0.33
 Ns 0.06
@@ -216,7 +387,6 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd Cockpit3.jpg
 Ni 1.00
 Ks 0.33 0.33 0.33
 Ns 0.06
@@ -225,7 +395,6 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd Dish01.jpg
 Ni 1.00
 Ks 0.33 0.33 0.33
 Ns 0.06
@@ -234,7 +403,6 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd Dish02.jpg
 Ni 1.00
 Ks 0.33 0.33 0.33
 Ns 0.06
@@ -243,7 +411,6 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd DishSide.jpg
 Ni 1.00
 Ks 0.33 0.33 0.33
 Ns 0.06
@@ -252,7 +419,6 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd DrivBack.jpg
 Ni 1.00
 Ks 0.33 0.33 0.33
 Ns 0.06
@@ -261,7 +427,6 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd Engine01.jpg
 Ni 1.00
 Ks 0.33 0.33 0.33
 Ns 0.06
@@ -270,7 +435,6 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 0.80 0.80 0.80
-map_Kd Engine02.jpg
 Ni 1.00
 Ks 0.33 0.33 0.33
 Ns 0.06
@@ -279,7 +443,6 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd EscPod_L.jpg
 Ni 1.00
 Ks 0.33 0.33 0.33
 Ns 0.06
@@ -288,7 +451,6 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd EscPod_U.jpg
 Ni 1.00
 Ks 0.33 0.33 0.33
 Ns 0.06
@@ -297,7 +459,6 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd FalcPlan.jpg
 Ni 1.00
 Ks 0.33 0.33 0.33
 Ns 0.06
@@ -306,7 +467,6 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd FalcUndr.jpg
 Ni 1.00
 Ks 0.33 0.33 0.33
 Ns 0.06
@@ -323,7 +483,6 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd Hatch.jpg
 Ni 1.00
 Ks 0.33 0.33 0.33
 Ns 0.06
@@ -332,7 +491,6 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd M_Inside.jpg
 Ni 1.00
 Ks 0.33 0.33 0.33
 Ns 0.06
@@ -341,7 +499,6 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd MandbEnd.jpg
 Ni 1.00
 Ks 0.33 0.33 0.33
 Ns 0.06
@@ -350,7 +507,6 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd PodSide1.jpg
 Ni 1.00
 Ks 0.33 0.33 0.33
 Ns 0.06
@@ -359,7 +515,6 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd SidePort.jpg
 Ni 1.00
 Ks 0.33 0.33 0.33
 Ns 0.06
@@ -368,7 +523,6 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd SideRear.jpg
 Ni 1.00
 Ks 0.33 0.33 0.33
 Ns 0.06
@@ -377,7 +531,6 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd SideRear1_.jpg
 Ni 1.00
 Ks 0.33 0.33 0.33
 Ns 0.06
@@ -386,7 +539,6 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd Turret_L.jpg
 Ni 1.00
 Ks 0.33 0.33 0.33
 Ns 0.06
@@ -395,7 +547,6 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd Turret_U.jpg
 Ni 1.00
 Ks 0.33 0.33 0.33
 Ns 0.06
@@ -404,7 +555,6 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd Vent01.jpg
 Ni 1.00
 Ks 0.33 0.33 0.33
 Ns 0.06
@@ -416,121 +566,4068 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.33 0.33 0.33
 Ns 0.06
-newmtl Props_Showroom_CadrefenFBXASC195FBXASC170tre:Props_Showroom_CadrefenFBXASC195FBXASC170tre:BLINDShape1SG
-illum 4
-Kd 0.62 0.62 0.62
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-newmtl Rideau:polySurface1SG
-illum 4
-Kd 0.64 0.64 0.64
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-newmtl SOL1:polySurface627SG
-illum 4
-Kd 0.50 0.50 0.50
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-newmtl arch20_102_00SG
-illum 4
-Kd 0.61 0.61 0.61
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-newmtl arch20_102_04SG
-illum 4
-Kd 0.50 0.50 0.50
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-newmtl ecran:polySurface1SG
-illum 4
-Kd 0.50 0.50 0.50
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-newmtl extrudedSurface1SG
-illum 4
-Kd 0.50 0.50 0.50
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-newmtl lambert80SG
+newmtl Halcon_Milenario2:CP_Front
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
+map_Kd CP_Front.jpg
 Ni 1.00
-newmtl pCylinder3SG
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:Cockpit2
 illum 4
-Kd 0.63 0.63 0.63
+Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
+map_Kd Cockpit2.jpg
 Ni 1.00
-newmtl pPlane1SG
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:Cockpit4
 illum 4
-Kd 0.68 0.68 0.68
+Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
+map_Kd Cockpit3.jpg
 Ni 1.00
-newmtl pPlane2SG
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:Dish01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Dish01.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:Dish02
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Dish02.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:DishSide
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd DishSide.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:DrivBack
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd DrivBack.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:Engine01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Engine01.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:Engine03
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.80 0.80 0.80
+map_Kd Engine02.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:EscPod_L
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd EscPod_L.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:EscPod_U
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd EscPod_U.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:FalcPlan
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd FalcPlan.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:FalcUndr
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd FalcUndr.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:FrontColor
 illum 4
 Kd 1.00 1.00 1.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-newmtl pPlane3SG
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:Hatch
 illum 4
-Kd 0.24 0.24 0.24
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Hatch.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:M_Inside
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd M_Inside.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:MandbEnd
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd MandbEnd.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:PodSide1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PodSide1.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:SidePort
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd SidePort.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:SideRear
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd SideRear.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:SideRear1_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd SideRear1_.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:Turret_L
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Turret_L.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:Turret_U
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Turret_U.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:Vent01
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Vent01.jpg
+Ni 1.00
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl Halcon_Milenario2:_Charcoal_1
+illum 4
+Kd 0.14 0.14 0.14
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-newmtl pPlane4SG
+Ks 0.33 0.33 0.33
+Ns 0.06
+newmtl initialShadingGroup
 illum 4
-Kd 0.67 0.67 0.67
+Kd 0.50 0.50 0.50
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-newmtl pPlane5SG
+newmtl lambert83SG
 illum 4
-Kd 0.64 0.64 0.64
+Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-newmtl pPlane6SG
+newmtl lambert84SG
 illum 4
-Kd 0.43 0.43 0.43
+Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-newmtl pPlane7SG
+newmtl lambert85SG
 illum 4
-Kd 0.34 0.34 0.34
+Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-newmtl pPlane8SG
+newmtl lambert86SG
 illum 4
-Kd 0.85 0.85 0.85
+Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-newmtl polySurface280SG
+newmtl lambert88SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert90SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert91SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert93SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert94SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert95SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert96SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert97SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nieve.png
+Ni 1.00
+newmtl lambert98SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.png
+Ni 1.00
+newmtl lambert100SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nieve.png
+Ni 1.00
+newmtl lambert101SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 3.png
+Ni 1.00
+newmtl lambert102SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nieve.png
+Ni 1.00
+newmtl lambert103SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 4.png
+Ni 1.00
+newmtl lambert104SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 4.png
+Ni 1.00
+newmtl lambert105SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nieve.png
+Ni 1.00
+newmtl lambert106SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.png
+Ni 1.00
+newmtl lambert107SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.png
+Ni 1.00
+newmtl lambert108SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 1.png
+Ni 1.00
+newmtl lambert109SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 3.png
+Ni 1.00
+newmtl lambert110SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 3.png
+Ni 1.00
+newmtl lambert111SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 3.png
+Ni 1.00
+newmtl lambert112SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 3.png
+Ni 1.00
+newmtl lambert113SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 3.png
+Ni 1.00
+newmtl lambert114SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 3.png
+Ni 1.00
+newmtl lambert116SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 3.png
+Ni 1.00
+newmtl lambert118SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 3.png
+Ni 1.00
+newmtl lambert119SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 3.png
+Ni 1.00
+newmtl lambert121SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nieve.png
+Ni 1.00
+newmtl lambert122SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 4.png
+Ni 1.00
+newmtl lambert125SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 6.png
+Ni 1.00
+newmtl lambert127SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pantalla_tbbt.png
+Ni 1.00
+newmtl lambert128SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 2.png
+Ni 1.00
+newmtl lambert129SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 16.png
+Ni 1.00
+newmtl lambert131SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl lambert134SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl lambert135SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl lambert136SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl lambert137SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl lambert138SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl lambert139SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl lambert140SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl lambert141SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl lambert142SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl lambert143SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl lambert144SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl lambert145SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl lambert146SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl lambert147SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl lambert148SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl lambert149SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl lambert150SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl lambert151SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl lambert152SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl lambert153SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl lambert154SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl lambert155SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 14.png
+Ni 1.00
+newmtl lambert156SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 11.png
+Ni 1.00
+newmtl lambert159SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 4.png
+Ni 1.00
+newmtl lambert161SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 6.png
+Ni 1.00
+newmtl lambert162SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 21.png
+Ni 1.00
+newmtl lambert163SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 4.png
+Ni 1.00
+newmtl lambert164SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 4.png
+Ni 1.00
+newmtl lambert165SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 4.png
+Ni 1.00
+newmtl lambert166SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 4.png
+Ni 1.00
+newmtl lambert167SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 4.png
+Ni 1.00
+newmtl lambert168SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 4.png
+Ni 1.00
+newmtl lambert169SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 21.png
+Ni 1.00
+newmtl lambert170SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 4.png
+Ni 1.00
+newmtl lambert173SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 4.png
+Ni 1.00
+newmtl lambert174SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 4.png
+Ni 1.00
+newmtl lambert175SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 14.png
+Ni 1.00
+newmtl lambert176SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 16.png
+Ni 1.00
+newmtl lambert177SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 10.png
+Ni 1.00
+newmtl lambert179SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert180SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 8.png
+Ni 1.00
+newmtl lambert182SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 8.png
+Ni 1.00
+newmtl lambert183SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 12.png
+Ni 1.00
+newmtl lambert184SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 21.png
+Ni 1.00
+newmtl lambert185SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ladrillo.png
+Ni 1.00
+newmtl lambert187SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ladrillo.png
+Ni 1.00
+newmtl lambert188SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ladrillo.png
+Ni 1.00
+newmtl lambert190SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ladrillo.png
+Ni 1.00
+newmtl lambert191SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 2.png
+Ni 1.00
+newmtl lambert192SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 19.png
+Ni 1.00
+newmtl pasted__lambert84SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert84SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert85SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert86SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert91SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert93SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert93SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert93SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert93SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert94SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert94SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert94SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert94SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert95SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert95SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert95SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert95SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert96SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert96SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert96SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert96SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__lambert97SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nieve.png
+Ni 1.00
+newmtl pasted__lambert97SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nieve.png
+Ni 1.00
+newmtl pasted__lambert97SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nieve.png
+Ni 1.00
+newmtl pasted__lambert98SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.png
+Ni 1.00
+newmtl pasted__lambert100SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nieve.png
+Ni 1.00
+newmtl pasted__lambert109SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 3.png
+Ni 1.00
+newmtl pasted__lambert122SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 4.png
+Ni 1.00
+newmtl pasted__lambert128SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 2.png
+Ni 1.00
+newmtl pasted__lambert128SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 2.png
+Ni 1.00
+newmtl pasted__lambert128SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 2.png
+Ni 1.00
+newmtl pasted__lambert128SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 2.png
+Ni 1.00
+newmtl pasted__lambert129SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 16.png
+Ni 1.00
+newmtl pasted__lambert129SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 16.png
+Ni 1.00
+newmtl pasted__lambert129SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 16.png
+Ni 1.00
+newmtl pasted__lambert129SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 16.png
+Ni 1.00
+newmtl pasted__lambert131SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert131SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert131SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert131SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert132SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert132SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert132SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert133SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert133SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert133SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert134SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert134SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert134SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert134SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert135SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert135SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert135SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert135SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert136SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert136SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert136SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert136SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert137SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert137SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert137SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert137SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert138SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert138SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert138SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert138SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert139SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert139SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert139SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert139SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert140SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert140SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert140SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert140SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert141SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert141SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert141SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert141SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert142SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert142SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert142SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert142SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert143SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert143SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert143SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert143SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert144SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert144SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert144SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert144SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert145SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert145SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert145SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert145SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert146SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert146SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert146SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert146SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert147SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert147SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert147SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert147SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert148SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert148SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert148SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert148SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert149SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert149SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert149SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert149SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert150SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert150SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert150SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert150SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert151SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert151SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert151SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert151SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert152SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert152SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert152SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert152SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert153SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert153SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert153SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert153SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert154SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert154SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert154SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert154SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__lambert155SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 14.png
+Ni 1.00
+newmtl pasted__lambert155SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 14.png
+Ni 1.00
+newmtl pasted__lambert155SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 14.png
+Ni 1.00
+newmtl pasted__lambert156SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 11.png
+Ni 1.00
+newmtl pasted__lambert159SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 4.png
+Ni 1.00
+newmtl pasted__lambert161SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 6.png
+Ni 1.00
+newmtl pasted__lambert162SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 21.png
+Ni 1.00
+newmtl pasted__lambert163SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 4.png
+Ni 1.00
+newmtl pasted__lambert164SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 4.png
+Ni 1.00
+newmtl pasted__lambert165SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 4.png
+Ni 1.00
+newmtl pasted__lambert166SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 4.png
+Ni 1.00
+newmtl pasted__lambert167SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 4.png
+Ni 1.00
+newmtl pasted__lambert168SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 4.png
+Ni 1.00
+newmtl pasted__lambert169SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 21.png
+Ni 1.00
+newmtl pasted__lambert170SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 4.png
+Ni 1.00
+newmtl pasted__lambert173SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 4.png
+Ni 1.00
+newmtl pasted__lambert174SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 4.png
+Ni 1.00
+newmtl pasted__lambert177SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 10.png
+Ni 1.00
+newmtl pasted__lambert182SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 8.png
+Ni 1.00
+newmtl pasted__lambert183SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 12.png
+Ni 1.00
+newmtl pasted__lambert192SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 19.png
+Ni 1.00
+newmtl pasted__pasted__lambert84SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__lambert84SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__lambert84SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__lambert93SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__lambert93SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__lambert93SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__lambert93SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__lambert93SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__lambert94SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__lambert94SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__lambert94SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__lambert94SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__lambert95SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__lambert95SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__lambert95SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__lambert95SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__lambert96SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__lambert96SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__lambert96SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__lambert96SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__lambert97SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nieve.png
+Ni 1.00
+newmtl pasted__pasted__lambert97SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nieve.png
+Ni 1.00
+newmtl pasted__pasted__lambert97SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nieve.png
+Ni 1.00
+newmtl pasted__pasted__lambert98SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.png
+Ni 1.00
+newmtl pasted__pasted__lambert122SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 4.png
+Ni 1.00
+newmtl pasted__pasted__lambert122SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 4.png
+Ni 1.00
+newmtl pasted__pasted__lambert128SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 2.png
+Ni 1.00
+newmtl pasted__pasted__lambert128SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 2.png
+Ni 1.00
+newmtl pasted__pasted__lambert128SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 2.png
+Ni 1.00
+newmtl pasted__pasted__lambert128SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 2.png
+Ni 1.00
+newmtl pasted__pasted__lambert129SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 16.png
+Ni 1.00
+newmtl pasted__pasted__lambert129SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 16.png
+Ni 1.00
+newmtl pasted__pasted__lambert129SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 16.png
+Ni 1.00
+newmtl pasted__pasted__lambert129SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 16.png
+Ni 1.00
+newmtl pasted__pasted__lambert130SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 14.png
+Ni 1.00
+newmtl pasted__pasted__lambert131SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert131SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert131SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert131SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert132SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert132SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert132SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert132SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert133SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert133SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert133SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert133SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert134SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert134SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert134SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert134SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert135SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert135SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert135SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert135SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert136SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert136SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert136SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert136SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert137SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert137SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert137SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert137SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert138SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert138SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert138SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert138SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert139SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert139SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert139SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert139SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert140SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert140SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert140SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert140SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert141SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert141SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert141SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert141SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert142SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert142SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert142SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert142SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert143SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert143SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert143SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert143SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert144SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert144SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert144SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert144SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert145SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert145SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert145SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert145SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert146SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert146SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert146SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert146SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert147SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert147SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert147SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert147SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert148SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert148SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert148SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert148SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert149SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert149SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert149SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert149SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert150SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert150SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert150SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert150SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert151SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert151SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert151SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert151SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert152SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert152SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert152SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert152SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert153SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert153SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert153SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert153SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert154SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert154SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert154SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert154SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__lambert155SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 14.png
+Ni 1.00
+newmtl pasted__pasted__lambert155SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 14.png
+Ni 1.00
+newmtl pasted__pasted__lambert155SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 14.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert84SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert84SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert84SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert93SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert93SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert94SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert94SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert95SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert95SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert96SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert96SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert97SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nieve.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert97SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nieve.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert98SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert122SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 4.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert128SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 2.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert128SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 2.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert129SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 16.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert129SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 16.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert131SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert131SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert132SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert132SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert133SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert133SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert134SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert134SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert135SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert135SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert136SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert136SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert137SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert137SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert138SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert138SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert139SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert139SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert140SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert140SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert141SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert141SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert142SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert142SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert143SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert143SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert144SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert144SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert145SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert145SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert146SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert146SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert147SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert147SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert148SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert148SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert149SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert149SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert150SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert150SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert151SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert151SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert152SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert152SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert153SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert153SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert154SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert154SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert155SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 14.png
+Ni 1.00
+newmtl pasted__pasted__pasted__lambert155SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 14.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert84SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert84SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert94SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert95SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert96SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert97SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nieve.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert97SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nieve.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert128SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 2.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert129SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 16.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert131SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert132SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert133SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert134SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert135SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert136SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert137SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert138SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert139SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert140SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert141SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert142SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert143SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert144SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert145SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert146SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert147SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert148SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert149SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert150SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert151SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert152SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert153SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert154SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 22.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__lambert155SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 14.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert84SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert84SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__lambert97SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nieve.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert84SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert84SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__lambert84SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert84SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__lambert84SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__polySurface280SG4
 illum 4
 Kd 0.97 0.97 0.97
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-newmtl polySurface291SG
+newmtl pasted__pasted__pasted__pasted__pasted__polySurface280SG5
+illum 4
+Kd 0.97 0.97 0.97
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__polySurface291SG2
 illum 4
 Kd 0.35 0.35 0.35
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-newmtl polySurface298SG
+newmtl pasted__pasted__pasted__pasted__pasted__polySurface298SG2
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__polySurface300SG2
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__polySurface301SG2
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__polySurface280SG4
+illum 4
+Kd 0.97 0.97 0.97
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__polySurface280SG5
+illum 4
+Kd 0.97 0.97 0.97
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__polySurface280SG6
+illum 4
+Kd 0.97 0.97 0.97
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__polySurface280SG7
+illum 4
+Kd 0.97 0.97 0.97
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__polySurface291SG2
+illum 4
+Kd 0.35 0.35 0.35
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__polySurface291SG3
+illum 4
+Kd 0.35 0.35 0.35
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__polySurface298SG2
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__polySurface298SG3
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__polySurface299SG2
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__polySurface300SG2
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__polySurface300SG3
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__polySurface301SG2
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__polySurface301SG3
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__polySurface280SG
+illum 4
+Kd 0.97 0.97 0.97
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__polySurface280SG1
+illum 4
+Kd 0.97 0.97 0.97
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__polySurface280SG2
+illum 4
+Kd 0.97 0.97 0.97
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__polySurface280SG3
+illum 4
+Kd 0.97 0.97 0.97
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__polySurface280SG4
+illum 4
+Kd 0.97 0.97 0.97
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__polySurface280SG5
+illum 4
+Kd 0.97 0.97 0.97
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__polySurface280SG6
+illum 4
+Kd 0.97 0.97 0.97
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__polySurface280SG7
+illum 4
+Kd 0.97 0.97 0.97
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__polySurface291SG
+illum 4
+Kd 0.35 0.35 0.35
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__polySurface291SG1
+illum 4
+Kd 0.35 0.35 0.35
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__polySurface291SG2
+illum 4
+Kd 0.35 0.35 0.35
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__polySurface291SG3
+illum 4
+Kd 0.35 0.35 0.35
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__polySurface298SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__polySurface298SG1
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__polySurface298SG2
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__polySurface298SG3
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__polySurface299SG2
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__polySurface299SG3
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__polySurface300SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__polySurface300SG1
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__polySurface300SG2
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__polySurface300SG3
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__polySurface301SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__polySurface301SG1
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__polySurface301SG2
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__pasted__polySurface301SG3
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__polySurface280SG
+illum 4
+Kd 0.97 0.97 0.97
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__polySurface280SG1
+illum 4
+Kd 0.97 0.97 0.97
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__polySurface280SG2
+illum 4
+Kd 0.97 0.97 0.97
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__polySurface280SG3
+illum 4
+Kd 0.97 0.97 0.97
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__polySurface280SG4
+illum 4
+Kd 0.97 0.97 0.97
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__polySurface280SG5
+illum 4
+Kd 0.97 0.97 0.97
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__polySurface280SG6
+illum 4
+Kd 0.97 0.97 0.97
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__polySurface280SG7
+illum 4
+Kd 0.97 0.97 0.97
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__polySurface291SG
+illum 4
+Kd 0.35 0.35 0.35
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__polySurface291SG1
+illum 4
+Kd 0.35 0.35 0.35
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__polySurface291SG2
+illum 4
+Kd 0.35 0.35 0.35
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__polySurface291SG3
+illum 4
+Kd 0.35 0.35 0.35
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__polySurface298SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__polySurface298SG1
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__polySurface298SG2
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__polySurface298SG3
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__polySurface299SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__polySurface299SG1
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__polySurface299SG2
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__polySurface299SG3
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__polySurface300SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__polySurface300SG1
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__polySurface300SG2
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__polySurface300SG3
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__polySurface301SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__polySurface301SG1
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__polySurface301SG2
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__pasted__polySurface301SG3
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__polySurface280SG
+illum 4
+Kd 0.97 0.97 0.97
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__polySurface280SG1
+illum 4
+Kd 0.97 0.97 0.97
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__polySurface291SG
+illum 4
+Kd 0.35 0.35 0.35
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__polySurface298SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__polySurface299SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__polySurface299SG1
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__polySurface299SG2
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__polySurface299SG3
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__polySurface300SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__polySurface301SG
 illum 4
 Kd 0.50 0.50 0.50
 Ka 0.00 0.00 0.00
@@ -539,96 +4636,6 @@ Ni 1.00
 newmtl polySurface299SG
 illum 4
 Kd 0.50 0.50 0.50
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-newmtl polySurface300SG
-illum 4
-Kd 0.50 0.50 0.50
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-newmtl polySurface301SG
-illum 4
-Kd 0.50 0.50 0.50
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-newmtl polySurface620SG
-illum 4
-Kd 0.50 0.50 0.50
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-newmtl polySurface622SG
-illum 4
-Kd 0.88 0.88 0.88
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-newmtl polySurface625SG
-illum 4
-Kd 1.00 1.00 1.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-newmtl polySurface628SG
-illum 4
-Kd 0.19 0.83 0.09
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-newmtl polySurface629SG
-illum 4
-Kd 0.50 0.50 0.50
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-newmtl polySurface642SG
-illum 4
-Kd 0.50 0.50 0.50
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-newmtl polySurface652SG
-illum 4
-Kd 0.64 0.64 0.64
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-newmtl polySurface657SG
-illum 4
-Kd 0.29 0.29 0.29
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-newmtl polySurface668SG
-illum 4
-Kd 0.50 0.50 0.50
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-newmtl polySurface672SG
-illum 4
-Kd 0.20 0.20 0.20
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-newmtl polySurface673SG
-illum 4
-Kd 0.39 0.51 0.91
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-newmtl polySurface675SG
-illum 4
-Kd 0.73 0.36 0.34
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-newmtl polySurface679SG
-illum 4
-Kd 0.26 0.83 0.19
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
